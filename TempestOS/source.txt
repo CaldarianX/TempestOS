@@ -1,0 +1,6 @@
+https://github.com/cfenollosa/os-tutorial
+
+
+how to run?
+nasm -f bin name.asm -o name.bin
+qemu-system-x86_64 name.bin
